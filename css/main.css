@@ -1,0 +1,25 @@
+p.sansserif {
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+	font-size: 1.25em; /* 20px/16=1.25em */
+}
+li{
+	font-size: 1.0em; /* 16px/16=1.0em */
+	margin: 0;
+	padding-left: 0;
+	//list-style: none;
+}
+ul{
+	margin-left:0px
+}
+div{
+	max-width: 640px;
+	margin: auto;
+}
+div.li {
+	max-width: 480px;
+	margin: auto;
+	text-align: left;
+}
